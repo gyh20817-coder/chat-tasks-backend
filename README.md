@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat + Tasks (Proxy Server)
 
 The backend for our online study application. Handles messaging with GPT-4 and saving responses to the database. You can find the participant-facing application [here](https://github.com/aaltoengpsy/chat-tasks-frontend).
@@ -162,3 +163,7 @@ for item in items_to_reuse:
 ```
 
 Alternatively, you can use the [mongoexport tool](https://www.mongodb.com/docs/database-tools/mongoexport/) to extract the contents of the database.
+=======
+# chat-tasks-backend
+Backend for chat-tasks project
+>>>>>>> d75ffad620a3593f62fbed6bc29e188f3e437057
